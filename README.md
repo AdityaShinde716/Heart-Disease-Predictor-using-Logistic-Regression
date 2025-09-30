@@ -1,1 +1,1 @@
-# Heart-Disease-Predictor-using-Logistic-Regression
+Built a Heart Disease Predictor using Logistic Regression.
