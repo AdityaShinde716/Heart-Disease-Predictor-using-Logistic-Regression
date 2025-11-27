@@ -1,1 +1,1 @@
-Built a Heart Disease Predictor using Logistic Regression.
+Built a Heart Disease Prediction model using Logistic Regression on the UCI dataset, performing thorough EDA and data validation. Achieved around 85% accuracy on training and test sets, with the model capable of predicting heart disease risk for new patient inputs effectively.
